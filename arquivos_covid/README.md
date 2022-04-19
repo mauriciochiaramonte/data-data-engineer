@@ -1,3 +1,0 @@
-Arquivos CSV informações Covid Junho de 2020 e Junho de 2021.
-
-Os arquivos estão zipados.
